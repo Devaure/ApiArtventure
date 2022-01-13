@@ -1,0 +1,66 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ArventurebddContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "ArventureApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[animalMechant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[carte]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[directionChemin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[etatPersonnage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[histoire]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[lieu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[objetTrouve]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[textCookie]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-7QM5FS1.ArventureBdd",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
