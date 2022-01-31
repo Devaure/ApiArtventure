@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{95F6200B-1833-4845-97F6-BE35CB1AE4BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArventureApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Models/AnimalMechant.cs" Line="8" Column="39" />
+      <File FileName="Models/Carte.cs" Line="1" Column="1" />
+      <File FileName="Models/DirectionChemin.cs" Line="1" Column="1" />
+      <File FileName="Models/EtatPersonnage.cs" Line="1" Column="1" />
+      <File FileName="Models/Histoire.cs" Line="1" Column="1" />
+      <File FileName="Models/Lieu.cs" Line="1" Column="1" />
+      <File FileName="Models/ObjetTrouve.cs" Line="1" Column="1" />
+      <File FileName="Models/TextCookie.cs" Line="1" Column="1" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="11" Column="4" />
+      <File FileName="Program.cs" Line="17" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArventureApi" expanded="True">
+            <Node name="ArventureApi" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

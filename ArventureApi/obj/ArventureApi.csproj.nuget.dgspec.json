@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apprenant\\Documents\\projetAngular\\ArventureAngular\\ArventureApi\\ArventureApi\\ArventureApi.csproj": {}
+    "/Users/David/Documents/Projets/Artventure/ApiArventure/ApiArtventure/ArventureApi/ArventureApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apprenant\\Documents\\projetAngular\\ArventureAngular\\ArventureApi\\ArventureApi\\ArventureApi.csproj": {
+    "/Users/David/Documents/Projets/Artventure/ApiArventure/ApiArtventure/ArventureApi/ArventureApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apprenant\\Documents\\projetAngular\\ArventureAngular\\ArventureApi\\ArventureApi\\ArventureApi.csproj",
+        "projectUniqueName": "/Users/David/Documents/Projets/Artventure/ApiArventure/ApiArtventure/ArventureApi/ArventureApi.csproj",
         "projectName": "ArventureApi",
-        "projectPath": "C:\\Users\\Apprenant\\Documents\\projetAngular\\ArventureAngular\\ArventureApi\\ArventureApi\\ArventureApi.csproj",
-        "packagesPath": "C:\\Users\\Apprenant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apprenant\\Documents\\projetAngular\\ArventureAngular\\ArventureApi\\ArventureApi\\obj\\",
+        "projectPath": "/Users/David/Documents/Projets/Artventure/ApiArventure/ApiArtventure/ArventureApi/ArventureApi.csproj",
+        "packagesPath": "/Users/David/.nuget/packages/",
+        "outputPath": "/Users/David/Documents/Projets/Artventure/ApiArventure/ApiArtventure/ArventureApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Apprenant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/David/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

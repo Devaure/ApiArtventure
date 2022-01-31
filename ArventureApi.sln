@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArventureApi", "ArventureApi\ArventureApi.csproj", "{76EE4AF0-1A73-4E19-AE62-FFFC0124CC2E}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{6605F4FF-81D6-4AAE-86FB-B24778D3343E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76EE4AF0-1A73-4E19-AE62-FFFC0124CC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76EE4AF0-1A73-4E19-AE62-FFFC0124CC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76EE4AF0-1A73-4E19-AE62-FFFC0124CC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6605F4FF-81D6-4AAE-86FB-B24778D3343E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6605F4FF-81D6-4AAE-86FB-B24778D3343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6605F4FF-81D6-4AAE-86FB-B24778D3343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6605F4FF-81D6-4AAE-86FB-B24778D3343E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
